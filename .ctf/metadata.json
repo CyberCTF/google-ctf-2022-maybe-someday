@@ -3,6 +3,6 @@
   "description": "A Paillier encryption service that decrypts your ciphertexts and only tells you whether their padding is valid.",
   "question": "Retrieve the flag from the challenge service.",
   "category": "CRYPTO",
-  "difficulty": 4,
+  "difficulty": 3,
   "evidence_kind": "SECRET"
 }
