@@ -4,11 +4,5 @@
   "question": "Retrieve the flag from the challenge service.",
   "category": "CRYPTO",
   "difficulty": 4,
-  "evidence_kind": "SECRET",
-  "capabilities": [
-    "paillier",
-    "padding-oracle",
-    "homomorphic-encryption",
-    "cryptography"
-  ]
+  "evidence_kind": "SECRET"
 }
