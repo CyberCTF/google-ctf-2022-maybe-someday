@@ -1,8 +1,11 @@
 {
+  "project_name": "cyberlabs-google-ctf-2022-maybe-someday",
+  "slug": "google-ctf-2022-maybe-someday",
   "title": "Google CTF 2022: Maybe Someday",
   "description": "A Paillier encryption service that decrypts your ciphertexts and only tells you whether their padding is valid.",
-  "question": "Use the decryption service's padding answers to recover the secret and get the flag.",
-  "category": "CRYPTO",
+  "category": "crypto",
   "difficulty": 3,
-  "evidence_kind": "SECRET"
+  "evidence_kind": "SECRET",
+  "capabilities": [],
+  "question": "Use the decryption service's padding answers to recover the secret and get the flag."
 }
